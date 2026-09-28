@@ -32,3 +32,6 @@ A data pipeline and forecasting project using Excel, predicting near-future webs
 
 ## Full Write-Up
 See `Website_Traffic_Forecast_Writeup.pdf` for the complete write-up, including the forecast comparison table and business recommendations.
+
+<img width="4032" height="3024" alt="IMG_3210" src="https://github.com/user-attachments/assets/23924063-76f6-4ed7-b76e-ab426d0d2962" />
+
